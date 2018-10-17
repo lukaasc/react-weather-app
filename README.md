@@ -13,7 +13,7 @@ Requires Node.js v8+ to run.
 **Install the dependencies and start the server in development.**
 
 ```sh
-cd react-app
+cd react-weather-app
 yarn install
 yarn start
 ```
@@ -21,7 +21,7 @@ yarn start
 **or**
 
 ```sh
-cd react-app
+cd react-weather-app
 npm install
 npm start
 ```
@@ -29,7 +29,7 @@ npm start
 **building the code for production...**
 
 ```sh
-cd react-app
+cd react-weather-app
 yarn install
 yarn build
 ```
@@ -37,7 +37,7 @@ yarn build
 **or**
 
 ```sh
-cd react-app
+cd react-weather-app
 npm install
 npm run build
 ```
